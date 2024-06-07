@@ -30,7 +30,6 @@ class _PageviewState extends State<Pageview> {
 
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       home: SafeArea(
         child: Scaffold(
         
